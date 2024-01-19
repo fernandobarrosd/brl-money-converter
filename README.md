@@ -1,2 +1,7 @@
 # FB Dolar Exchange 
-DolarExchangeRate (React Native and Typescript)
+
+This app is the money converter to dolar
+
+## Tecnologies
+- React Native
+- Typescript
