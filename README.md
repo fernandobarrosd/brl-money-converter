@@ -1,2 +1,2 @@
-# dolar-exchange-rate-app
+# FB Dolar Exchange 
 DolarExchangeRate (React Native and Typescript)
