@@ -4,21 +4,26 @@
     "slug": "brl-money-converter",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "resizeMode": "contain",
-      "backgroundColor": "#6BDE6E"
+      "image": "./assets/splash-screen.png"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icons/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.fernando.brl_money_converter"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a30ea80e-fcfe-4b95-8f46-8b9dac54b35a"
+      }
     }
   }
 }
