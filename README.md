@@ -2,7 +2,8 @@
 
 This app to convert BRL money to dolar
 
-![Apresentation GIF](assets/videos/brl-money-converter-apresentation.gif)
+
+<img src="assets/videos/brl-money-converter-apresentation.gif" width="200">
 
 ## Tecnologies
 - React Native
@@ -10,4 +11,4 @@ This app to convert BRL money to dolar
 
 ## Screenshots
 
-<img src="assets/screenshots/brl-money-converter-screenshot.png">
+<img src="assets/screenshots/brl-money-converter-screenshot.png" width="200">
