@@ -1,6 +1,6 @@
-# FB Dolar Exchange 
+# BRL Money Converter
 
-This app is the money converter to dolar
+This app to convert BRL money to dolar
 
 ## Tecnologies
 - React Native
